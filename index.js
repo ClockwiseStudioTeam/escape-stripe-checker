@@ -223,7 +223,7 @@ const checkPayments = async () => {
                              <!-- <div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
                                <!--<![endif]-->
                                <!-- <div class="img-container center fixedwidth" align="center" style="padding-right: 0px;padding-left: 0px;">
-                                 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><img class="center fixedwidth" align="center" border="0" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/BeeProAgency/663304_645640/crmpal.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 219px; display: block;" width="219">
+                                 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><img class="center fixedwidth" align="center" border="0" src="hhttps://cdn.discordapp.com/attachments/1036355509739073680/1104539517345607750/treasure-chest-svgrepo-com.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 219px; display: block;" width="219">
                                  <!--[if mso]></td></tr></table><![endif]-->
                                </div> --> -->
                                <table class="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" role="presentation" valign="top">
@@ -264,12 +264,12 @@ const checkPayments = async () => {
                                <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Tahoma, Verdana, sans-serif"><![endif]-->
                                <div style="color:#555555;font-family:'Roboto', Tahoma, Verdana, Segoe, sans-serif;line-height:1.2;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
                                  <div class="txtTinyMce-wrapper" style="line-height: 1.2; font-size: 12px; font-family: 'Roboto', Tahoma, Verdana, Segoe, sans-serif; color: #555555; mso-line-height-alt: 14px;">
-                                   <p style="margin: 0; font-size: 16px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; mso-line-height-alt: 19px; margin-top: 0; margin-bottom: 0;"><strong><span style="font-size: 17px; mso-ansi-font-size: 18px;">Obrigado Piratas!</span></strong></p>
+                                   <p style="margin: 0; font-size: 16px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; mso-line-height-alt: 19px; margin-top: 0; margin-bottom: 0;"><strong><span style="font-size: 17px; mso-ansi-font-size: 18px;">Pronto para começar?</span></strong></p>
                                  </div>
                                </div>
                                <!--[if mso]></td></tr></table><![endif]-->
                                <div class="img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
-                                 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><img class="center autowidth" align="center" border="0" src="https://d2fi4ri5dhpqd1.cloudfront.net/public/resources/defaultrows/1.png" alt="I'm an image" title="I'm an image" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 125px; display: block;" width="125">
+                                 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><img class="center autowidth" align="center" border="0" src="https://cdn.discordapp.com/attachments/1036355509739073680/1104539517345607750/treasure-chest-svgrepo-com.png" alt="I'm an image" title="I'm an image" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 125px; display: block;" width="125">
                                  <!--[if mso]></td></tr></table><![endif]-->
                                </div>
                                <table cellpadding="0" cellspacing="0" role="presentation" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top">
@@ -302,18 +302,18 @@ const checkPayments = async () => {
                                <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Tahoma, Verdana, sans-serif"><![endif]-->
                                <div style="color:#555555;font-family:'Roboto', Tahoma, Verdana, Segoe, sans-serif;line-height:1.2;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
                                  <div class="txtTinyMce-wrapper" style="line-height: 1.2; font-size: 12px; font-family: 'Roboto', Tahoma, Verdana, Segoe, sans-serif; color: #555555; mso-line-height-alt: 14px;">
-                                   <p style="margin: 0; font-size: 14px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; mso-line-height-alt: 17px; margin-top: 0; margin-bottom: 0;"><p>Obrigado ${charge.billing_details.name} por te juntares à nossa caça ao tesouro com os teus amigos! Para participar, você precisará baixar o aplicativo Loquiz em sua loja de aplicativos (Google Play ou App Store) e inserir os dados de acesso que foram enviados para você por e-mail.
-                                     \n\n
-                                     Certifique-se de inserir as informações corretas e seguir as instruções para começar a jogar. A Loquiz é uma plataforma fácil de usar que permitirá que você participe do jogo em tempo real e interaja com outros jogadores.
-                                     \n\n
-                                     Se você tiver alguma dúvida ou problema para acessar o jogo, não hesite em entrar em contato conosco por e-mail ou telefone.
-                                     \n\n
-                                     Boa sorte e divirta-se!
-                                     \n\n
-                                     Atenciosamente,
-                                     \n\n
-                                     \n\n
-                                     Os piratas da Treasure Trackers! Arrrg!</p></p>
+                                   <p style="margin: 0; font-size: 14px; line-height: 1.2; text-align: center; word-break: break-word; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; mso-line-height-alt: 17px; margin-top: 0; margin-bottom: 0;"><p>Obrigado <b> ${charge.name} </b>< por te juntares à nossa caça ao tesouro com os teus amigos!<br><br> Para participar, você precisará baixar o aplicativo Loquiz em sua loja de aplicativos (Google Play ou App Store) e inserir os dados de acesso que foram enviados para você por e-mail.<br><br>
+                                   \n\n <br>
+                                   Certifique-se de inserir as informações corretas e seguir as instruções para começar a jogar. A Loquiz é uma plataforma fácil de usar que permitirá que você participe do jogo em tempo real e interaja com outros jogadores.
+                                   \n\n<br><br>
+                                   Se você tiver alguma dúvida ou problema para acessar o jogo, não hesite em entrar em contato conosco por e-mail ou telefone.
+                                   \n\n<br><br>
+                                   Boa sorte e divirta-se!
+                                   \n\n<br><br>
+                                   Atenciosamente,
+                                   \n\n
+                                   \n\n<br><br><br>
+                                   Os piratas da Treasure Trackers! Arrrg!</p></p>
                                  </div>
                                </div>
                                <!--[if mso]></td></tr></table><![endif]-->
