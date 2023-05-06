@@ -6,7 +6,7 @@ const nodemailer = require('nodemailer');
 const app = express();
 const port = process.env.PORT|| 5000;
 
-const uri = "mongodb+srv://IgorLima:Lima2529@payments.vkgg5og.mongodb.net/?retryWrites=true&w=majority";
+const uri = process.env.MONGO;
 const client = new MongoClient(uri, {
   useNewUrlParser: true,
   useUnifiedTopology: true
