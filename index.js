@@ -1,5 +1,5 @@
 const express = require('express');
-const stripe = require('stripe')("sk_test_51IjRN9BDBW0hZ8SlZrhIsFHojU6pFy1KJd4nRb4ZJEmHNba2ekyrG8cWUnRvrGjEbSxL8cLFDACyBK1izf4hFPRF00LqIWqXaZ");
+const stripe = require('stripe')(process.env.STRIPE);
 const { MongoClient, ObjectId } = require('mongodb');
 const nodemailer = require('nodemailer');
 
@@ -38,8 +38,8 @@ const transporter = nodemailer.createTransport({
   port: 587,
   secure: false,
   auth: {
-    user: "igor.filipe.lima@gmail.com",
-    pass: "siacbmtqycytibfx",
+    user: process.env.EMAIL,
+    pass: process.env.PASS,
   },
 });
 
@@ -68,7 +68,7 @@ const checkPayments = async () => {
       
       // Send email to client
       const mailOptions = {
-        from: 'igor.filipe.lima@gmail.com',
+        from: process.env.EMAIL,
         to: charge.billing_details.email,
         subject: 'Payment Received',
         text: `Hello ${charge.billing_details.name},\n\nWe have received your payment of ${charge.amount}.\n\nThank you for your business!`,
